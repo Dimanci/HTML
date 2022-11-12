@@ -1,0 +1,6 @@
+[type="checkbox"] <!-- Atribute selector --> {
+    margin:10px 0px 15px 0px;
+  }
+
+#id_slector {}
+.class_selector {}
