@@ -1,0 +1,11 @@
+<style>
+  h2 {
+    color:blue;
+  }
+  </style>
+
+<style>
+  .red-text {  //using class attribute
+    color: red;
+  }
+</style>
